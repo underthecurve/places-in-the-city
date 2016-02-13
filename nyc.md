@@ -35,7 +35,7 @@
 
 ### soho
 
-- [otto](http://www.ottopizzeria.com/home.cfm) probably my favorite italian food place in the city. near the NYU campus. excellent elegant and affordable pizza, pasta, wine, cool desserts (e.g., olive oil gelato)
+- [otto](http://www.ottopizzeria.com/home.cfm): probably my favorite italian food place in the city. near the NYU campus. excellent elegant and affordable pizza, pasta, wine, cool desserts (e.g., olive oil gelato)
 
 - [balthazar](http://www.balthazarbakery.com/home.php): french bakery & tea place. i've never been but ppl rave about their [ginger tea](https://yogadawn.wordpress.com/2010/01/29/ginger-citrus-tea-so-good-youll-slap-ya-mamma-dont-really-slap-your-mom-its-not-nice/)
 
@@ -56,6 +56,9 @@
 also great beer selection
 
 - [katz's deli](http://katzsdelicatessen.com/): classic deli, home of [the famous when harry met sally scene](https://www.youtube.com/watch?v=F-bsf2x-aeE)
+
+### downtown / tribeca
+- [max](http://www.max-ny.com/): they knew me by name when i lived in the area. i still dream abt the fettucine w/ max's meat sauce
 
 ### williamsburg (brooklyn)
 
@@ -80,6 +83,7 @@ margaritas
 
 - [insomnia cookies](https://www.insomniacookies.com/): it's open till 3am and amazing. if you live within close range they will deliver WARM cookies to you. 
 
+- [magnolia bakery](http://www.magnoliabakery.com/): the place that introduced me to "red velvet" cupcakes. also their banana pudding will automatically make your day better (even if you don't like bananas) 
 
 ## drink
 
@@ -150,6 +154,8 @@ margaritas
 - [upright citizens brigade](http://www.ucbtheatre.com/) (several locations): is a cool comedy club. their shows are cheap and pretty funny, improv nights are good 
 
 - broadway: if you want to watch a broadway show, one option is to wait in line for same day tickets at one of the [tkts booths](http://www.tdf.org/TDF_ServicePage.aspx?id=56) - still like $60 per ticket, but they are good quality seats
+
+- [pete's candy store](http://www.petescandystore.com/): cool spot for live music in williamsburg
 
 ### misc
 
