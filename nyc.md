@@ -153,7 +153,7 @@ margaritas
 
 ### misc
 
-- (time out new york)[http://www.timeout.com/newyork] good site to check out cool things going on
+- [time out new york](http://www.timeout.com/newyork) good site to check out cool things going on
 
-- (christine's search for the perfect macaron in nyc)[http://perfectmacaroninnyc.wordpress.com/]: macaron blog i wrote while living in nyc
+- [christine's search for the perfect macaron in nyc](http://perfectmacaroninnyc.wordpress.com/): macaron blog i wrote while living in nyc
 
