@@ -89,7 +89,7 @@ margaritas
 ### east village
 - [amor y amargo](http://amoryamargony.com/): superb cocktails & bitters tasting experience and small cozy bar
 
-- [fat cat jazz club](http://www.fatcatmusic.org/: cool place downtown, usually $5 cover.  live music some nights plus you can play pool and BOARD GAMES (for a fee) 
+- [fat cat jazz club](http://www.fatcatmusic.org/): cool place downtown, usually $5 cover.  live music some nights plus you can play pool and BOARD GAMES (for a fee) 
 
 ## lower east side
 
