@@ -2,7 +2,7 @@
 
 - my (christine's) favorite places in nyc. mostly manhattan b/c that's where i lived back in the day. feel free to add to the list!
 
-- note manhattan is not huge so some of these neighborhood designations are arbitrary. e.g., otto (italian restaurant under 'food') is under SoHo but not far from the village, etc.
+- note manhattan is not huge so some of these neighborhood designations are arbitrary. e.g., otto (italian restaurant under 'food') is under east village but not far from SoHo, etc.
 
 ## food 
 
@@ -35,8 +35,6 @@
 
 ### soho
 
-- [otto](http://www.ottopizzeria.com/home.cfm): probably my favorite italian food place in the city. near the NYU campus. excellent elegant and affordable pizza, pasta, wine, cool desserts (e.g., olive oil gelato)
-
 - [balthazar](http://www.balthazarbakery.com/home.php): french bakery & tea place. i've never been but ppl rave about their [ginger tea](https://yogadawn.wordpress.com/2010/01/29/ginger-citrus-tea-so-good-youll-slap-ya-mamma-dont-really-slap-your-mom-its-not-nice/)
 
 - [lombardi's](http://www.firstpizza.com/): a little touristy now but still quintissential "new york style" pizza
@@ -46,6 +44,8 @@
 - [pepe rosso](http://www.peperossotogo.com/cms/): small but very cozy italian place
 
 ### east village
+
+- [otto](http://www.ottopizzeria.com/home.cfm): probably my favorite italian food place in the city. near the NYU campus. excellent elegant and affordable pizza, pasta, wine, cool desserts (e.g., olive oil gelato)
 
 - [amorino gelato](http://www.yelp.com/biz/amorino-new-york): closer to union square than east village. legit gelato place. plus they have a really cool system where you can get a cone with AS MANY FLAVORS as you want!!
 
